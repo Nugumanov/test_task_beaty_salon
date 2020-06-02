@@ -343,14 +343,14 @@
   left:20px;
   top:200px;
   width:335px;
-  height:25px;
+  height:30px;
 }
 #u18_input {
   position:absolute;
   left:0px;
   top:0px;
   width:335px;
-  height:25px;
+  height:30px;
   font-family:'Arial';
   font-weight:400;
   font-style:normal;
@@ -382,7 +382,7 @@
   border-width:0px;
   position:absolute;
   left:328px;
-  top:205px;
+  top:208px;
   width:15px;
   height:15px;
   font-family:'Font Awesome 5 Free Solid', 'Font Awesome 5 Free';
