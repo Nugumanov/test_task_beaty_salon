@@ -13,9 +13,13 @@
 }
 .box_3 {
 }
+.ellipse {
+}
 .image {
 }
 .placeholder {
+}
+.button {
 }
 .heading_1 {
   font-family:'Arial';
@@ -60,6 +64,8 @@
 }
 .paragraph {
   text-align:left;
+}
+.line {
 }
 .text_field {
   font-size:14px;
